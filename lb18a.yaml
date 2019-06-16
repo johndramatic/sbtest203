@@ -134,7 +134,7 @@ components:
                  servicename: $parent.properties.name
       - 
         name: vserver-certs-bindings
-        type: stlb::vserver-certs-binds
+        type: stlb::vserver-certs-binds23
         condition: "$parameters.certificates and ($parameters.lb-service-type == \"SSL\")"
         properties: 
           certificates: $parameters.certificates
