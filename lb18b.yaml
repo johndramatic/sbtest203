@@ -128,7 +128,7 @@ components:
         components:
            -
               name: lbvserver-service-binding
-              type: ns::lbvserver_service_binding23
+              type: ns::lbvserver_service_binding
               properties: 
                  name: $parent.parent.properties.name
                  servicename: $parent.properties.name
