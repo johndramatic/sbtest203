@@ -32,7 +32,7 @@ components:
     name: lbvserver-comp
     type: ns::lbvserver
     properties: 
-      name: $parameters.lb-appname + "-lbname"
+      name: $parameters.lb-appname + "-lbname12"
       servicetype: $parameters.lb-service-type
       ipv46: $parameters.lb-virtual-ip
       port?: $parameters.lb-virtual-port
