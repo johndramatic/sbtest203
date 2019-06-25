@@ -57,7 +57,7 @@ components:
     components: 
       - 
         name: servicegroup-comp
-        type: ns::servicegroup
+        type: ns::servicegroup11
         properties: 
           servicegroupname: $parameters.lb-appname + "-svcgrp3"
           servicetype: $parameters.svc-service-type
