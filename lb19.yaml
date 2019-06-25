@@ -121,7 +121,7 @@ components:
         repeat: $parameters.svc-server-domains
         repeat-item: server
         properties: 
-           name: $server.domain + "-service"
+           name: $server.domain + "-service11"
            servername: $server.domain + "-server"
            servicetype: $parameters.svc-service-type
            port: $server.port
