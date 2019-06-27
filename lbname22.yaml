@@ -3,7 +3,6 @@ name: lbname22
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 private: true
-builtin: true
 schema-version: "1.0"
 
 parameters: 
