@@ -1,0 +1,18 @@
+--- 
+name: lbname22
+namespace: com.citrix.adc.commontypes
+version: "1.0"
+private: true
+builtin: true
+schema-version: "1.0"
+
+parameters: 
+  - 
+    name: lb-appname
+    label: "Load Balanced Application Nameaaa"
+    description: "Name of the Load Balanced application"
+    type: string
+    key: true
+    gui:
+      updatable: false
+    required: true
