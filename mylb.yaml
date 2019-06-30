@@ -1,12 +1,12 @@
 --- 
 name: mylb
-namespace: com.citrix.nidhi.commontypes
+namespace: com.citrix.adc.commontypes
 version: "1.0"
 schema-version: "1.0"
 import-stylebooks:
  - 
     namespace: com.citrix.adc.commontypes
-    prefix: cmtypesvc c`1
+    prefix: cmtypes
     version: "1.0"
 
  -
