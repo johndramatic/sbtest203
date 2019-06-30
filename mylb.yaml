@@ -16,7 +16,7 @@ import-stylebooks:
     
 parameters-default-sources:
   - cmtypes::lbname19
-  - cmtypes::lbip191
+  - cmtypes::lbip19
   - cmtypes::lbport19
   - cmtypes::lbsvctype19
 
