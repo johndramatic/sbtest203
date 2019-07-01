@@ -18,7 +18,7 @@ parameters-default-sources:
   - cmtypes::lbname19
   - cmtypes::lbip19
   - cmtypes::lbport19
-  - cmtypes::lbsvctype19
+  - cmtypes::lbsvctype199
 
 
 components: 
