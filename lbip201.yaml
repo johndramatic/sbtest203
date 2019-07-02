@@ -1,5 +1,5 @@
 --- 
-name: lbip20
+name: lbip201
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 private: true
