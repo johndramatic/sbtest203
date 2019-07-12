@@ -1,5 +1,5 @@
 --- 
-name: bmylb202
+name: cmylb202
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 schema-version: "1.0"
