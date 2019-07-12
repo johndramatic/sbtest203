@@ -1,5 +1,5 @@
 --- 
-name: cmylb202
+name: cmylb203
 namespace: com.citrix.adc.commontypes
 version: "1.0"
 schema-version: "1.0"
@@ -15,10 +15,10 @@ import-stylebooks:
     version: "10.5"
     
 parameters-default-sources:
-  - cmtypes::lbname20
-  - cmtypes::lbip201
-  - cmtypes::lbport20
-  - cmtypes::lbsvctype20
+  - cmtypes::lbname203
+  - cmtypes::lbip203
+  - cmtypes::lbport203
+  - cmtypes::lbsvctype203
 
 
 components: 
